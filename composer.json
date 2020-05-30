@@ -1,0 +1,14 @@
+{
+    "name": "zhanghongbo/newyii",
+    "license": "dev",
+    "authors": [
+        {
+            "name": "taobao1875",
+            "email": "taobao1875@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"yii\\": ""}
+    }
+}
